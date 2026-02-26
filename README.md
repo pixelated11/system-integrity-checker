@@ -16,4 +16,4 @@ g++ app.cpp app.o -static -static-libgcc -static-libstdc++ -o sic.exe
 This will link the manifest to the .cpp file, allowing the program to run as admin automatically (without needing to right-clicking). Your executable file should be in the directory you are working in.
 
 # Contributions
-As always, contributions will be very much appreciated. You can e-mail me in itspixelated@proton.me to request on contributing in the code, or feature a fork. Don't forget to star the repo too if you like!
+As always, contributions will be very much appreciated. You can e-mail me in itspixelatd@proton.me to request on contributing in the code, or feature a fork. Don't forget to star the repo too if you like!
